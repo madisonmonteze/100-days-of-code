@@ -15,3 +15,11 @@
 **Thoughts:** HTML/CSS are strong, JS is always my weakest area. Planning to spend Day 3 working on a JS function for changing out an SVG on click.
 
 **Link to work:** [How to make an interactive rotating 3d cube with CSS and Javascript](https://www.superhi.com/video/how-to-make-an-interactive-rotating-3d-cube-with-css-and-javascript)
+
+### Day 3: April 29, 2020
+
+**Today's Progress**: Finished the 3D rotating cube / Princess Dice using CSS and JS.
+
+**Thoughts:** Pretty happy with how the modal pop-up functionality turned out. Would like to play around with other ways of doing modals soon.
+
+**Link to work:** [Princess Dice](http://princess-dice.herokuapp.com/index.html)
