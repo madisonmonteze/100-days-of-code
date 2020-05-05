@@ -23,3 +23,11 @@
 **Thoughts:** Pretty happy with how the modal pop-up functionality turned out. Would like to play around with other ways of doing modals soon.
 
 **Link to work:** [Princess Dice](http://princess-dice.herokuapp.com/index.html)
+
+### Day 4: May 4, 2020
+
+**Today's Progress**: Learned how to install Theme Kit for Shopify and integrate with GitHub for version control and terminal for local updates. 
+
+**Thoughts:** Didn't mean to take a few days break, but felt good to finally get this set up figured out. Took me longer than I thought it would! 
+
+**Link to work:** N/A
