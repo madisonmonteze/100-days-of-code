@@ -31,3 +31,19 @@
 **Thoughts:** Didn't mean to take a few days break, but felt good to finally get this set up figured out. Took me longer than I thought it would! 
 
 **Link to work:** N/A
+
+### Day 5: June 13, 2020
+
+**Today's Progress**: Working on my Vanilla Javascript-storing data, creating functions, etc. Created a V1 "Email Sign-off Generator."
+
+**Thoughts:** Getting back into it :) Would have liked to use Are.na's API but I was hitting some blockers and wanted to focus on writing Javascript. Also sourced '98 Windows CSS to use for fun! 
+
+**Link to work:** [Email Sign-off Generator](https://email-signoff-generator.herokuapp.com/index.html)
+
+### Day 6: June 14, 2020
+
+**Today's Progress**: Added more functionality including restoring the main window content and the "It's now safe to turn off your computer" screen. Also added copy to clipboard functionality for the email sign-offs and to my email address. 
+
+**Thoughts:** Would like to come back and clean up the JS a bit. There's a little repetition that could be consolidated. 
+
+**Link to work:** [Email Sign-off Generator](https://email-signoff-generator.herokuapp.com/index.html)
