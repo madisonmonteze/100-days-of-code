@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: June 15, 2020
+
+**Today's Progress**: Started building my first React JS web app! And getting back into using the command line. 
+
+**Thoughts:** Keeping it simple in terms of React components for this mini-project, but I'm excited to keep learning and building on my React skills. 
+
+**Link to work:** [Bootstrapped my app from this repo](https://github.com/facebook/create-react-app#creating-an-app)
+
 ### Day 6: June 14, 2020
 
 **Today's Progress**: Added more functionality including restoring the main window content and the "It's now safe to turn off your computer" screen. Also added copy to clipboard functionality for the email sign-offs and to my email address. 
