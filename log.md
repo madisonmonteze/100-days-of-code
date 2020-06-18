@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 9: June 17, 2020
+
+**Today's Progress**: Refractored the 'About' section into a pop-up modal. Pretty happy with how it turned out after testing a few different methods. Still practicing using the command line, as well as Node/npm.  
+
+**Thoughts:** Ready to step up my React skills and get into more complicated apps. 
+
+**Link to work:** [Vibe Check Counter V1](https://sleepy-wildwood-84067.herokuapp.com/)
+
+### Day 8: June 16, 2020
+
+**Today's Progress**: Deployed my first React web app! Built a simple counter (calling it the 'Vibe Checker') and tried out new CSS transitions/animations. I'm not super happy with the 'About' slider functionality, so I'm planning on refractoring that tomorrow from a slide-up into a pop-up.
+
+**Thoughts:** Definitely made me think about styling differently and was forced to branch out from my usual methods. Lots to learn still!!
+
+**Link to work:** [Vibe Check Counter V1](https://sleepy-wildwood-84067.herokuapp.com/)
+
 ### Day 7: June 15, 2020
 
 **Today's Progress**: Started building my first React JS web app! And getting back into using the command line. 
