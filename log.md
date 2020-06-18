@@ -6,7 +6,7 @@
 
 **Thoughts:** Ready to step up my React skills and get into more complicated apps. 
 
-**Link to work:** [Vibe Check Counter V1](https://sleepy-wildwood-84067.herokuapp.com/)
+**Link to work:** [Vibe Check Counter](https://sleepy-wildwood-84067.herokuapp.com/)
 
 ### Day 8: June 16, 2020
 
